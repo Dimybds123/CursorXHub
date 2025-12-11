@@ -1,8 +1,7 @@
--[[
+--[[
 yay Relta HUB By Gr33nkidd! Wait, you want to steal my script?
 
 you skid.
-
 ]]
 local Players = game:GetService("Players")
 local StarterGui = game:GetService("StarterGui")
